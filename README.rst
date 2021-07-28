@@ -7,4 +7,5 @@ because they offer some unique and interesting insights into the topic.
 
 Revisions:
 
-- 07/03/2021: publish the draft version for my PhD defense
+- 07/03/2021: published the draft version for my PhD defense
+- 07/27/2021: had a final pass myself
